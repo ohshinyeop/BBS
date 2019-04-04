@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="widht=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/bootstrap.css">
-<title>JSP 게시판 웹사이트</title>
+<title>오징옆 게시판 웹사이트</title>
 </head>
 <body>
 	<nav class="navbar navbar-default">
@@ -14,7 +14,7 @@
 				<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
 				<!-- 작대기 갯수 -->
 			</button>
-			<a class="navbar-brand" href="main.jsp">JSP 게시판 웹사이트</a>
+			<a class="navbar-brand" href="main.jsp">오징옆 게시판 웹사이트</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">

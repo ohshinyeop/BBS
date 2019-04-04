@@ -7,8 +7,12 @@
 <title>오징옆 게시판 웹사이트</title>
 </head>
 <body>
-    <script>
-    location.href = "main.jsp";
-    </script>
+<%
+session.invalidate();
+%>
+<script>
+location.href = 'main.jsp';
+</script>
+
 </body>
 </html>
