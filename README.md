@@ -1,3 +1,3 @@
 # BBS
-Bulletin Board System
+Bulletin Board System \n
 basic notice board
