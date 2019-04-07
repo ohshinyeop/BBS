@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>오징옆 게시판 웹사이트</title>
+<link rel="stylesheet" href="css/custom.css">
 </head>
 <body>
     <script>
